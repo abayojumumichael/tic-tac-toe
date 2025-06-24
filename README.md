@@ -56,7 +56,7 @@ yarn start
 - `src/components/ui/button.tsx` — Custom button component
 - `public/` — Static assets
 
-## Customization
+## Customisation
 
 You can add features like a restart button, score tracking, or improved styling by editing `src/app/board.tsx`.
 
