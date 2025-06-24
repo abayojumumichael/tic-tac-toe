@@ -1,7 +1,6 @@
 # Tic-Tac-Toe
 
-A simple rendition of Tic-Tac-Toe game, adapted from a tutorial using Next.js, React and Tailwind CSS
-.
+A simple Tic-Tac-Toe built using Next.js, React and Tailwind CSS.
 
 ## Features
 
